@@ -8,7 +8,7 @@ function loadingPage() {
     document.getElementById("load").style.display = "none";
 }
 window.onload = function () {
-    setTimeout(loadingPage, 2000)
+    setTimeout(loadingPage, 500)
 }
 
 
