@@ -563,7 +563,7 @@
         
     }
     .remove-hover img{
-        height: 100%;
+        height: 100%;                
     }
     .remove-hover img:hover{
         transform: translateY(0) !important;
@@ -575,7 +575,7 @@
         transition: all 2s;
     }
     .work-image img:hover{
-        transform: translateY(-75%);
+        transform: translateY(-65%);
         cursor: pointer;
         transition: all 2s !important;
     }
